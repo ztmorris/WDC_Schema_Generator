@@ -1,2 +1,2 @@
 # WDC_Schema_Generator
-Creates table schemas from CSV files
+Once completed, it will create table schemas from CSV files for the Tableau Web Data Conector (WDC)
